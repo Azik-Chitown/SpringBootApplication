@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Online Store Web App
 
 ## About
@@ -92,3 +93,7 @@ $ java -jar target/shopping-cart-0.0.1-SNAPSHOT.jar
 To exit the application, press **ctrl-c**.
 
 
+=======
+# SpringBootApplication
+SpringBootApplication for class SE 452 @DePaul University
+>>>>>>> e87c26794382c4cf07316470347c4bd14e8bf243
